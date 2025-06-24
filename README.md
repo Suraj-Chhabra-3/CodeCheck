@@ -25,14 +25,14 @@ Just paste your code in the editor and receive:
 
 ### 📌 Example
 
-#### Input:
+#### Input: provided to app
 ```javascript
 function sum () {
     return a+b;
 }
 ```
 
-#### Review:
+#### Review: provided by app
 * **Missing Parameters**: The function `sum` is defined without any parameters. `a` and `b` are global variables, which
 can lead to unexpected behavior and make the function less reusable. It's better to pass `a` and `b` as arguments.
 
