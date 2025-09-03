@@ -1,6 +1,6 @@
-# ai_code_reviewer
+# 
 
-`ai_code_reviewer` is an AI-powered code reviewer web application. It allows developers to submit their code and get back detailed bug reports, explanations, and the corrected version of their code using Gemini 2.5 Flash.
+`CodeCheck` is an AI-powered code reviewer web application. It allows developers to submit their code and get back detailed bug reports, explanations, and the corrected version of their code using Gemini 2.5 Flash.
 
 ## 🧠 Features
 
